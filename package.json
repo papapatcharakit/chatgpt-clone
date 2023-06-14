@@ -1,5 +1,5 @@
 {
-  "name": "telecom-chatgpt",
+  "name": "telecom-chatgpt-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
