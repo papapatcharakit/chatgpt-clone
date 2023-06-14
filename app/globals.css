@@ -153,6 +153,18 @@ body {
  
 }
 
+.avatar_user {
+  background: white;
+  border-radius: 50%;
+  min-width: 40px;
+  min-height: 40px;
+  max-width: 40px;
+  max-height: 40px;
+  border: 2px solid black;
+  padding: 2px;
+ 
+}
+
 .avatar.chatGPT {
   background: #0da37f;
   border-radius: 50%;
