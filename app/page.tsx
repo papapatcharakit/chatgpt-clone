@@ -156,7 +156,7 @@ export default function Home() {
         </section>
 
         <section>
-          <p className='text-xs text-center mb-1 uppercase' >Made by:</p>
+          <p className='text-xs text-center mb-1 uppercase' >Made by :</p>
           <hr />
           <section className='profile'>
             <img className='avatar' src={"profile/IMG_7766.jpg"}>
